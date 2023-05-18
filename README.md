@@ -45,13 +45,11 @@ Moreover, CNN designed for the predictions also showed some interesting results,
 
 ##### Classification of urine samples
 
-![Important features of urine samples](https://github.com/OlgaChechekina/FTIR_spectroscopy_of_biofluids/assets/60808830/38860a2b-70ec-475c-a7e5-ecd5eacead52)
 <img src="https://github.com/OlgaChechekina/FTIR_spectroscopy_of_biofluids/assets/60808830/38860a2b-70ec-475c-a7e5-ecd5eacead52" width="50%">
 
 Furthermore, investigation was expanded by including urine spectra analysis. For the experiment, 35 urine spectra were registered, and 20-fold augmentation was performed. Feature selection techniques were also applied to create a refined dataset, as well as rationale behind the selected features was explained. The resulting dataset was used to construct multiple classification models and gave remarkable accuracies ranging from 0.9 to 1.0 for most of the models.
 
-![ROC AUC](https://github.com/OlgaChechekina/FTIR_spectroscopy_of_biofluids/assets/60808830/854128f7-f5d0-41d8-9889-04b23ce2c9ea)
-
+<img src="https://github.com/OlgaChechekina/FTIR_spectroscopy_of_biofluids/assets/60808830/854128f7-f5d0-41d8-9889-04b23ce2c9ea" width="50%">
 
 
 Conclusion
